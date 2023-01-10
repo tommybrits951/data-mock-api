@@ -1,0 +1,23 @@
+{
+"data": [
+    {   "id": 0,
+        "firstName": "Tommy",
+        "lastName": "Brits",
+        "dob": "07-14-1986",
+        "age": 36,
+        "cityState": "Moreno Valley, CA",
+        "zipCode": 92553,
+        "email": "tommybrits74@gmail.com",
+        "username": "IWontClickYourLink",
+        "gender": "male",
+        "bio": "Creater of This App",
+        "Occupation": "Web-Developler",
+        "about": "Ask"
+    }
+]
+
+
+
+
+
+}
